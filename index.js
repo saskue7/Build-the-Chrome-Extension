@@ -23,7 +23,7 @@ tabBtn.addEventListener("click",function() {
 
  })
  
-})
+
 
 deleteBtn.addEventListener("click",function(){
  localStorage.clear()
